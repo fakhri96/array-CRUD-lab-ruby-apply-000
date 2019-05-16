@@ -25,7 +25,7 @@ def remove_element_from_start_of_array(array)
   array.shift
 end
 
-def retrieve_element_from_index(array, 3)
+def retrieve_element_from_index(array, "3")
   array [3]
 end
 
