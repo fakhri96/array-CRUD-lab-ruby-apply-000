@@ -6,7 +6,7 @@ def create_an_array
   [1,2,"John", "Fakhri"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array([1,2,"John", "Fakhri"], element)
   
    [1,2,"John", "Fakhri"] << element
   
